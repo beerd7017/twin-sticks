@@ -36,11 +36,9 @@ sysinfo.txt
 *.unitypackage
 .idea/
 
-TwinSticks_Data/*
-ProjectSettings/*
-Library/*
-UnityPackageManager/*
-
+TwinSticks_Data
+ProjectSettings
+UnityPackageManager
 TwinSticks.exe
 UnityPlayer.dll
-TwinSticks_Data/Resources/*
+
