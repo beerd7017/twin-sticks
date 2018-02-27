@@ -22,6 +22,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -34,3 +35,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 .idea/
+
+TwinSticks_Data/*
+ProjectSettings/*
